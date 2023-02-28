@@ -57,6 +57,7 @@
 
 ## Dart 
 
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [filc/naplo-2-legacy](https://github.com/filc/naplo-2-legacy) - Nem hivatalos e-napló alkalmazás az e-Kréta rendszerhez
 
@@ -75,7 +76,7 @@
 
 - [sovworks/edslite](https://github.com/sovworks/edslite) - EDS "lite" edition
 - [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
-- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - 
+- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 
 ## JavaScript 
 
