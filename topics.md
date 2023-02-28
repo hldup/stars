@@ -93,6 +93,7 @@
 
 ## android 
 
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
@@ -187,7 +188,7 @@
 - [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - A Nginx Proxy Manager Log Exporter with a Grafana Dashboard
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
-- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - 
+- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 
 ## documentation 
@@ -252,7 +253,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - 
+- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Envoy-VC/awesome-badges](https://github.com/Envoy-VC/awesome-badges) - 😎 A curated list of GitHub badges for your next  project
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -264,11 +265,12 @@
 
 ## ios 
 
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 
 ## ipfs 
 
-- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - 
+- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## java 
@@ -467,6 +469,7 @@
 
 ## twitter 
 
+- [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
