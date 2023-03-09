@@ -19,6 +19,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [config](#config)
+- [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [deep-learning](#deep-learning)
 - [design](#design)
@@ -98,7 +99,6 @@
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-- [cuynu/ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 
 ## api 
@@ -166,6 +166,10 @@
 
 - [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
 
+## cpp 
+
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
+
 ## cryptocurrency 
 
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -185,6 +189,7 @@
 
 ## docker 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - A Nginx Proxy Manager Log Exporter with a Grafana Dashboard
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
@@ -381,13 +386,11 @@
 - [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - Linux System Config
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus
-- [mew27/Swastika_Finder](https://github.com/mew27/Swastika_Finder) - Finds all the swastikas in the binary representation of pi
 - [sovworks/edslite](https://github.com/sovworks/edslite) - EDS "lite" edition
 - [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace) - Download extensions and themes directly from Spicetify
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-- [vinceliuice/Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme) - Layan-gtk-theme
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [Shougo/neobundle.vim](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
 - [Bnyro/TranslateYou](https://github.com/Bnyro/TranslateYou) - Powerful Translator App built with Material Design 3 (You)
@@ -415,6 +418,7 @@
 
 ## python 
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
@@ -435,6 +439,7 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 
 ## security 
 
