@@ -56,6 +56,7 @@
 
 ## Dart 
 
+- [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [filc/naplo-2-legacy](https://github.com/filc/naplo-2-legacy) - Nem hivatalos e-napló alkalmazás az e-Kréta rendszerhez
