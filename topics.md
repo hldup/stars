@@ -34,6 +34,7 @@
 - [frontend](#frontend)
 - [games](#games)
 - [git](#git)
+- [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [image-processing](#image-processing)
@@ -78,6 +79,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -237,6 +239,10 @@
 ## git 
 
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+
+## go 
+
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## golang 
 
@@ -505,6 +511,10 @@
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [cmp-cc/vue-cookies](https://github.com/cmp-cc/vue-cookies) - A simple Vue.js plugin for handling browser cookies
+
+## vuejs 
+
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## web 
 
