@@ -409,6 +409,7 @@
 
 ## others 
 
+- [LeagueToolkit/cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 - [NoPlagiarism/frontend-instances-list](https://github.com/NoPlagiarism/frontend-instances-list) - Auto-updated list of alternative frontend instances
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
