@@ -207,7 +207,6 @@
 
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [smilebasti/npmGrafStats](https://github.com/smilebasti/npmGrafStats) - A Nginx Proxy Manager Log Exporter with a Grafana Dashboard
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
@@ -360,7 +359,6 @@
 ## mastodon 
 
 - [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## material-design 
 
@@ -414,6 +412,7 @@
 
 ## others 
 
+- [ahmadawais/Shades-of-Purple-Konsole](https://github.com/ahmadawais/Shades-of-Purple-Konsole) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Konsole.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [LeagueToolkit/cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 - [NoPlagiarism/frontend-instances-list](https://github.com/NoPlagiarism/frontend-instances-list) - Auto-updated list of alternative frontend instances
