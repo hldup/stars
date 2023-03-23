@@ -22,7 +22,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -127,6 +126,7 @@
 
 ## Others 
 
+- [ahmadawais/Shades-of-Purple-Konsole](https://github.com/ahmadawais/Shades-of-Purple-Konsole) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Konsole.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -157,10 +157,6 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mdgomes/goodoldgalaxy](https://github.com/mdgomes/goodoldgalaxy) - A simple GOG client for Linux
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
-
-## Ruby 
-
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## Rust 
 
