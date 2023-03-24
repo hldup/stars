@@ -91,7 +91,6 @@
 - [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [parasop/poru](https://github.com/parasop/poru) - A stable and powerful Lavalink client with some best features
 - [WFCD/warframe-items](https://github.com/WFCD/warframe-items) - 📘 Get all Warframe items directly from Warframe's API. No more messy wikia scraping.
 - [cmp-cc/vue-cookies](https://github.com/cmp-cc/vue-cookies) - A simple Vue.js plugin for handling browser cookies
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
@@ -184,6 +183,7 @@
 - [tarampampam/random-user-agent](https://github.com/tarampampam/random-user-agent) - 😎 Browser extension that automatically replaces the User-Agent with a randomized one
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [parasop/poru](https://github.com/parasop/poru) - A stable and powerful Lavalink client with some best features
 
 ## Vim Script 
 
