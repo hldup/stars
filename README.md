@@ -53,7 +53,7 @@
 
 ## CSS 
 
-- [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - Linux System Config
+- [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - Arch KDE Plasma Config
 
 ## Dart 
 
