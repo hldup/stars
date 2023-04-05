@@ -134,6 +134,7 @@
 
 ## awesome-list 
 
+- [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
@@ -361,6 +362,7 @@
 
 ## mastodon 
 
+- [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [elk-zone/elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 
 ## material-design 
