@@ -28,6 +28,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [es6](#es6)
@@ -54,6 +55,7 @@
 - [macos](#macos)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -101,6 +103,7 @@
 
 ## android 
 
+- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
@@ -192,6 +195,7 @@
 
 ## dart 
 
+- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 
 ## deep-learning 
@@ -220,6 +224,10 @@
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
+## education 
+
+- [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
+
 ## electron 
 
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
@@ -243,6 +251,7 @@
 
 ## flutter 
 
+- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -371,6 +380,10 @@
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 
+## mobile 
+
+- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
+
 ## mongodb 
 
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
@@ -418,6 +431,7 @@
 
 ## others 
 
+- [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [ahmadawais/Shades-of-Purple-Konsole](https://github.com/ahmadawais/Shades-of-Purple-Konsole) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Konsole.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
