@@ -30,6 +30,7 @@
 
 ## C 
 
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -55,6 +56,7 @@
 
 ## CSS 
 
+- [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Swexti/dots](https://github.com/Swexti/dots) - 
 - [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - Arch KDE Plasma Config
 
@@ -157,6 +159,7 @@
 
 ## Python 
 
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [NoPlagiarism/frontend-instances-list](https://github.com/NoPlagiarism/frontend-instances-list) - Auto-updated list of alternative frontend instances
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
@@ -181,6 +184,7 @@
 
 ## Shell 
 
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [Exodia-OS/exodia-bspwm](https://github.com/Exodia-OS/exodia-bspwm) - BSPWM Configurations for exodia
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
