@@ -445,6 +445,7 @@
 
 ## others 
 
+- [easytarget/esp32-cam-webserver](https://github.com/easytarget/esp32-cam-webserver) - Expanded version of the Espressif ESP webcam
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
