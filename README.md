@@ -30,6 +30,7 @@
 
 ## C 
 
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [easytarget/esp32-cam-webserver](https://github.com/easytarget/esp32-cam-webserver) - Expanded version of the Espressif ESP webcam
 - [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
