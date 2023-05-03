@@ -26,6 +26,7 @@
 - [dart](#dart)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -38,6 +39,7 @@
 - [frontend](#frontend)
 - [games](#games)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
@@ -106,6 +108,7 @@
 
 ## android 
 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [OpenLauncherTeam/openlauncher](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -219,6 +222,10 @@
 
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 
+## devops 
+
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+
 ## discord 
 
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -282,21 +289,29 @@
 
 ## git 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 
+## github 
+
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+
 ## go 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## golang 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 
 ## hacktoberfest 
 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
 - [OpenLauncherTeam/openlauncher](https://github.com/OpenLauncherTeam/openlauncher) - Customizable and Open Source Launcher for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -374,6 +389,7 @@
 
 ## linux 
 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [Exodia-OS/exodia-bspwm](https://github.com/Exodia-OS/exodia-bspwm) - BSPWM Configurations for exodia
@@ -399,6 +415,7 @@
 
 ## macos 
 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 
@@ -464,6 +481,7 @@
 
 ## others 
 
+- [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [ahmadawais/shades-of-purple-alacritty](https://github.com/ahmadawais/shades-of-purple-alacritty) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Alacritty.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
@@ -619,6 +637,7 @@
 
 ## vim 
 
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [Rigellute/shades-of-purple.vim](https://github.com/Rigellute/shades-of-purple.vim) - Dark theme for vim
@@ -657,6 +676,7 @@
 
 ## windows 
 
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Proton - Blur Mod / For dark theme lovers / More compact / Modular
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
