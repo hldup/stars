@@ -31,6 +31,8 @@
 
 ## C 
 
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [easytarget/esp32-cam-webserver](https://github.com/easytarget/esp32-cam-webserver) - Expanded version of the Espressif ESP webcam
@@ -191,6 +193,7 @@
 
 ## Rust 
 
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
