@@ -485,6 +485,7 @@
 
 ## others 
 
+- [fliqkr/inertia](https://github.com/fliqkr/inertia) - Inertia is a free, privacy-respecting, and stylish meta-search engine.
 - [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [ahmadawais/shades-of-purple-alacritty](https://github.com/ahmadawais/shades-of-purple-alacritty) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Alacritty.
