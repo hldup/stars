@@ -152,6 +152,7 @@
 
 ## Others 
 
+- [urbaninfolab/ComputeGPT](https://github.com/urbaninfolab/ComputeGPT) - ComputeGPT is a free and accurate chat model and calculator for math, science, and engineering. It's also known as MathGPT and ScienceGPT, and can compute most numerical answers.
 - [ahmadawais/shades-of-purple-alacritty](https://github.com/ahmadawais/shades-of-purple-alacritty) - 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Alacritty.
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
