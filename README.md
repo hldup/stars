@@ -23,6 +23,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -32,6 +33,7 @@
 
 ## C 
 
+- [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -100,7 +102,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [sovworks/edslite](https://github.com/sovworks/edslite) - EDS "lite" edition
-- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 
 ## JavaScript 
@@ -192,6 +194,10 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mdgomes/goodoldgalaxy](https://github.com/mdgomes/goodoldgalaxy) - A simple GOG client for Linux
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+
+## ReScript 
+
+- [redsigma/UPMetroSkin](https://github.com/redsigma/UPMetroSkin) - This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.
 
 ## Ruby 
 
