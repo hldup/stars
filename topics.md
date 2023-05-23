@@ -497,6 +497,7 @@
 
 ## others 
 
+- [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [redsigma/UPMetroSkin](https://github.com/redsigma/UPMetroSkin) - This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.
 - [fliqkr/inertia](https://github.com/fliqkr/inertia) - Inertia is a free, privacy-respecting, and stylish meta-search engine.
