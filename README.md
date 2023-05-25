@@ -33,6 +33,7 @@
 
 ## C 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
@@ -237,6 +238,7 @@
 
 ## TypeScript 
 
+- [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
