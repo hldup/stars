@@ -80,6 +80,7 @@
 - [react](#react)
 - [rust](#rust)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
 - [sql](#sql)
@@ -506,6 +507,8 @@
 
 ## others 
 
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+- [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [redsigma/UPMetroSkin](https://github.com/redsigma/UPMetroSkin) - This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.
@@ -613,6 +616,12 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## self-hosted 
+
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## shell 
 
