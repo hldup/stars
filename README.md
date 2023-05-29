@@ -33,6 +33,7 @@
 
 ## C 
 
+- [FT-Labs/picom](https://github.com/FT-Labs/picom) - More than 10 unique animation supported picom fork (open window, tag change, fading ...)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
