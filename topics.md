@@ -507,6 +507,7 @@
 
 ## others 
 
+- [FT-Labs/picom](https://github.com/FT-Labs/picom) - More than 10 unique animation supported picom fork (open window, tag change, fading ...)
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
