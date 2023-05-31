@@ -54,6 +54,7 @@
 
 ## C++ 
 
+- [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
@@ -153,7 +154,7 @@
 
 ## Nix 
 
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Others 
 
@@ -226,6 +227,8 @@
 
 ## Shell 
 
+- [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
+- [mrbman/hyprland-eww](https://github.com/mrbman/hyprland-eww) - 
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [Exodia-OS/exodia-bspwm](https://github.com/Exodia-OS/exodia-bspwm) - BSPWM Configurations for exodia
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
