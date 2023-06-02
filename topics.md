@@ -369,7 +369,6 @@
 
 ## ipfs 
 
-- [TeamPiped/Piped-Backend](https://github.com/TeamPiped/Piped-Backend) - The core component behind Piped, and other alternative frontends!
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## java 
@@ -507,6 +506,7 @@
 
 ## others 
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
 - [mrbman/hyprland-eww](https://github.com/mrbman/hyprland-eww) - 
