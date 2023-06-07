@@ -515,6 +515,7 @@
 
 ## others 
 
+- [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
 - [uhub/awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [sschueller/peertube-android](https://github.com/sschueller/peertube-android) - Thorium, a PeerTube Android Client
@@ -569,7 +570,6 @@
 - [parasop/poru](https://github.com/parasop/poru) - A stable and powerful Lavalink client with some best features
 - [creativetimofficial/muse-vue-ant-design-dashboard](https://github.com/creativetimofficial/muse-vue-ant-design-dashboard) - Muse Vue Ant Design Dashboard - Free and OpenSource Ant Design Vue Dashboard
 - [mdgomes/goodoldgalaxy](https://github.com/mdgomes/goodoldgalaxy) - A simple GOG client for Linux
-- [filc/naplo-2-legacy](https://github.com/filc/naplo-2-legacy) - Nem hivatalos e-napló alkalmazás az e-Kréta rendszerhez
 
 ## p2p 
 
