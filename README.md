@@ -88,7 +88,6 @@
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
-- [filc/naplo-2-legacy](https://github.com/filc/naplo-2-legacy) - Nem hivatalos e-napló alkalmazás az e-Kréta rendszerhez
 
 ## Elixir 
 
@@ -224,6 +223,7 @@
 
 ## Rust 
 
+- [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [jrnxf/thokr](https://github.com/jrnxf/thokr) - ✨ sleek typing tui with visualized results and historical logging
