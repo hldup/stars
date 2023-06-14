@@ -116,6 +116,7 @@
 
 ## android 
 
+- [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
@@ -396,6 +397,7 @@
 
 ## kotlin 
 
+- [Iamlooker/Droid-ify](https://github.com/Iamlooker/Droid-ify) - F-Droid client with Material UI.
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
