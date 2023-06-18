@@ -61,7 +61,6 @@
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [Dr-Noob/gpufetch](https://github.com/Dr-Noob/gpufetch) - Simple yet fancy GPU architecture fetching tool
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [LeagueToolkit/cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -86,6 +85,7 @@
 ## Dart 
 
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
+- [DarkMooNight/Rain](https://github.com/DarkMooNight/Rain) - Weather app.
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
