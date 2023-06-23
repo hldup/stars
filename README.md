@@ -24,6 +24,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [QML](#qml)
 - [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -219,6 +220,10 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [mdgomes/goodoldgalaxy](https://github.com/mdgomes/goodoldgalaxy) - A simple GOG client for Linux
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+
+## QML 
+
+- [SolDoesTech/HyprV4](https://github.com/SolDoesTech/HyprV4) - 
 
 ## ReScript 
 
