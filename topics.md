@@ -76,6 +76,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [python](#python)
+- [python3](#python3)
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -526,10 +527,10 @@
 
 ## others 
 
+- [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [SolDoesTech/HyprV4](https://github.com/SolDoesTech/HyprV4) - 
 - [benvd/lfs-pacman](https://github.com/benvd/lfs-pacman) - Guide to using pacman as a package manager for Linux From Scratch
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
-- [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
 - [uhub/awesome-c](https://github.com/uhub/awesome-c) - A curated list of awesome C frameworks, libraries and software.
 - [sschueller/peertube-android](https://github.com/sschueller/peertube-android) - Thorium, a PeerTube Android Client
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -604,12 +605,17 @@
 
 ## python 
 
+- [mautrix/python](https://github.com/mautrix/python) - A Python 3 asyncio Matrix framework.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [LibreLingo/LibreLingo](https://github.com/LibreLingo/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [scottlawsonbc/audio-reactive-led-strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - :musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi
+
+## python3 
+
+- [mautrix/python](https://github.com/mautrix/python) - A Python 3 asyncio Matrix framework.
 
 ## qt 
 
