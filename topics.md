@@ -527,6 +527,7 @@
 
 ## others 
 
+- [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [SolDoesTech/HyprV4](https://github.com/SolDoesTech/HyprV4) - 
 - [benvd/lfs-pacman](https://github.com/benvd/lfs-pacman) - Guide to using pacman as a package manager for Linux From Scratch
