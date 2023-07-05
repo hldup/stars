@@ -249,6 +249,7 @@
 
 ## Shell 
 
+- [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif) - just a loop who set wallpaper for display gif,  support transparency
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
 - [benvd/lfs-pacman](https://github.com/benvd/lfs-pacman) - Guide to using pacman as a package manager for Linux From Scratch
 - [hyprwm/contrib](https://github.com/hyprwm/contrib) - Community scripts and utilities for Hypr projects
