@@ -771,5 +771,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [berryes](https://github.com/berryes) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [hldup](https://github.com/hldup) has waived all copyright and related or neighboring rights to this work.
 
