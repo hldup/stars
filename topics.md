@@ -582,7 +582,7 @@
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [Shougo/neobundle.vim](https://github.com/Shougo/neobundle.vim) - Next generation Vim package manager
-- [Bnyro/TranslateYou](https://github.com/Bnyro/TranslateYou) - Powerful Translator App built with Material Design 3 (You)
+- [you-apps/TranslateYou](https://github.com/you-apps/TranslateYou) - Powerful Translator App built with Material Design 3 (You)
 - [dragos-efy/Piped](https://github.com/dragos-efy/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
