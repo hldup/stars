@@ -77,7 +77,7 @@
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [Swexti/dots](https://github.com/Swexti/dots) - 
-- [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - Arch KDE Plasma Config
+- [prasanthrangan/dotfiles](https://github.com/prasanthrangan/dotfiles) - // Arch KDE Plasma Config
 
 ## Crystal 
 
