@@ -133,7 +133,7 @@
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - ☔ Weather application
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
@@ -248,7 +248,7 @@
 ## dart 
 
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
-- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - ☔ Weather application
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 
 ## deep-learning 
@@ -314,7 +314,7 @@
 ## flutter 
 
 - [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
-- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - ☔ Weather application
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [RetroMusicPlayer/Paisa](https://github.com/RetroMusicPlayer/Paisa) - Expense manager for Android with Material Design
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
@@ -500,7 +500,7 @@
 
 ## mobile 
 
-- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - ☔ Weather application
+- [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 
 ## mongodb 
 
