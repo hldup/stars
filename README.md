@@ -236,6 +236,7 @@
 
 ## Rust 
 
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 - [femtovg/femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
