@@ -11,7 +11,6 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
-- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
@@ -161,12 +160,6 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [WFCD/warframe-items](https://github.com/WFCD/warframe-items) - 📘 Get all Warframe items directly from Warframe's API. No more messy wikia scraping.
-
-## archlinux 
-
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 
 ## arduino 
 
