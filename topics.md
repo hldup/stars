@@ -35,6 +35,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -301,6 +302,11 @@
 
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+## dotfiles 
+
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 
 ## education 
 
@@ -613,7 +619,6 @@
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
 - [Swexti/dots](https://github.com/Swexti/dots) - 
-- [Axarva/dotfiles-2.0](https://github.com/Axarva/dotfiles-2.0) - XMonad™️. Widgets go brr.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
