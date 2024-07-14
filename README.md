@@ -58,6 +58,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [WFCD/WFinfo](https://github.com/WFCD/WFinfo) - :computer: A fissure Companion App for Warframe
 
 ## C++ 
@@ -238,6 +239,8 @@
 
 ## Rust 
 
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
+- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music client for the terminal. (work in progress)
 - [aembke/fred.rs](https://github.com/aembke/fred.rs) - An async Redis client for Rust.
 - [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
