@@ -239,6 +239,7 @@
 
 ## Rust 
 
+- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music client for the terminal. (work in progress)
 - [aembke/fred.rs](https://github.com/aembke/fred.rs) - An async Redis client for Rust.
