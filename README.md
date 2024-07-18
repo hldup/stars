@@ -239,6 +239,9 @@
 
 ## Rust 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [ZihanType/predawn](https://github.com/ZihanType/predawn) - Predawn is a Rust web framework like Spring Boot -- Predawn 是一个类似 Spring Boot 的 Rust web 框架
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music client for the terminal. (work in progress)
