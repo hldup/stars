@@ -45,6 +45,7 @@
 - [es6](#es6)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [framework](#framework)
 - [frontend](#frontend)
 - [games](#games)
 - [git](#git)
@@ -99,6 +100,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -360,6 +362,10 @@
 - [h4h13/Paisa](https://github.com/h4h13/Paisa) - Expense manager for Android with Material Design
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 
+## framework 
+
+- [ZihanType/predawn](https://github.com/ZihanType/predawn) - Predawn is a Rust web framework like Spring Boot -- Predawn 是一个类似 Spring Boot 的 Rust web 框架
+
 ## frontend 
 
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -606,6 +612,7 @@
 
 ## others 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music client for the terminal. (work in progress)
 - [aembke/fred.rs](https://github.com/aembke/fred.rs) - An async Redis client for Rust.
 - [thomas10-10/foo-Wallpaper-Feh-Gif](https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif) - just a loop who set wallpaper for display gif,  support transparency
@@ -742,6 +749,8 @@
 
 ## rust 
 
+- [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+- [ZihanType/predawn](https://github.com/ZihanType/predawn) - Predawn is a Rust web framework like Spring Boot -- Predawn 是一个类似 Spring Boot 的 Rust web 框架
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test.
 - [geofmureithi/apalis](https://github.com/geofmureithi/apalis) - Simple, extensible multithreaded background job and message processing library for Rust
@@ -781,6 +790,10 @@
 ## software 
 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## spring-boot 
+
+- [ZihanType/predawn](https://github.com/ZihanType/predawn) - Predawn is a Rust web framework like Spring Boot -- Predawn 是一个类似 Spring Boot 的 Rust web 框架
 
 ## sql 
 
@@ -873,6 +886,7 @@
 
 ## web 
 
+- [ZihanType/predawn](https://github.com/ZihanType/predawn) - Predawn is a Rust web framework like Spring Boot -- Predawn 是一个类似 Spring Boot 的 Rust web 框架
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 
